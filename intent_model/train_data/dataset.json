@@ -1,0 +1,1202 @@
+[
+  {
+    "text": "Explain nutrition",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize nutrition",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for nutrition",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: nutrition",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "What is patient data?",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize patient data",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about patient data",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for patient data",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain privacy laws",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of privacy laws",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Generate quiz on privacy laws",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: privacy laws",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Define HIPAA",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize HIPAA",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about HIPAA",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Is this GDPR compliant: HIPAA",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about heart disease",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of heart disease",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on heart disease",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: heart disease",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Define diabetes",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize diabetes",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on diabetes",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: diabetes",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about HIPAA",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of HIPAA",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for HIPAA",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: HIPAA",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about diabetes",
+    "label": "QA"
+  },
+  {
+    "text": "Explain briefly diabetes",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about diabetes",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: diabetes",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about HIPAA",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of HIPAA",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Generate quiz on HIPAA",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for HIPAA",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about GDPR",
+    "label": "QA"
+  },
+  {
+    "text": "Shorten this GDPR",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on GDPR",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: GDPR",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain patient data",
+    "label": "QA"
+  },
+  {
+    "text": "Shorten this patient data",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for patient data",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for patient data",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "What is GDPR?",
+    "label": "QA"
+  },
+  {
+    "text": "Explain briefly GDPR",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on GDPR",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Is this GDPR compliant: GDPR",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain patient data",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize patient data",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on patient data",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: patient data",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "What is heart disease?",
+    "label": "QA"
+  },
+  {
+    "text": "Shorten this heart disease",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on heart disease",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: heart disease",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "What is nutrition?",
+    "label": "QA"
+  },
+  {
+    "text": "Shorten this nutrition",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for nutrition",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: nutrition",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain medical records",
+    "label": "QA"
+  },
+  {
+    "text": "Explain briefly medical records",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about medical records",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for medical records",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about privacy laws",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize privacy laws",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for privacy laws",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for privacy laws",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "What is patient data?",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize patient data",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Generate quiz on patient data",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: patient data",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about privacy laws",
+    "label": "QA"
+  },
+  {
+    "text": "Shorten this privacy laws",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Generate quiz on privacy laws",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: privacy laws",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "What is insurance?",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize insurance",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about insurance",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Is this GDPR compliant: insurance",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about insurance",
+    "label": "QA"
+  },
+  {
+    "text": "Explain briefly insurance",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on insurance",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for insurance",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Define insurance",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize insurance",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about insurance",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: insurance",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about HIPAA",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of HIPAA",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Generate quiz on HIPAA",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: HIPAA",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain healthcare systems",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize healthcare systems",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Generate quiz on healthcare systems",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for healthcare systems",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about patient data",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of patient data",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for patient data",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: patient data",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain insurance",
+    "label": "QA"
+  },
+  {
+    "text": "Explain briefly insurance",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for insurance",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for insurance",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about GDPR",
+    "label": "QA"
+  },
+  {
+    "text": "Explain briefly GDPR",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on GDPR",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for GDPR",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "What is insurance?",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize insurance",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on insurance",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: insurance",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain nutrition",
+    "label": "QA"
+  },
+  {
+    "text": "Explain briefly nutrition",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about nutrition",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Is this GDPR compliant: nutrition",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Define medical records",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize medical records",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about medical records",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: medical records",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about medical records",
+    "label": "QA"
+  },
+  {
+    "text": "Shorten this medical records",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about medical records",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for medical records",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about diabetes",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of diabetes",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for diabetes",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: diabetes",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain HIPAA",
+    "label": "QA"
+  },
+  {
+    "text": "Explain briefly HIPAA",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on HIPAA",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for HIPAA",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "What is heart disease?",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize heart disease",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on heart disease",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Is this GDPR compliant: heart disease",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain HIPAA",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of HIPAA",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for HIPAA",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: HIPAA",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about medical records",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of medical records",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for medical records",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: medical records",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about privacy laws",
+    "label": "QA"
+  },
+  {
+    "text": "Shorten this privacy laws",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on privacy laws",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: privacy laws",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about medical records",
+    "label": "QA"
+  },
+  {
+    "text": "Explain briefly medical records",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on medical records",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Is this GDPR compliant: medical records",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "What is GDPR?",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of GDPR",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on GDPR",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: GDPR",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about insurance",
+    "label": "QA"
+  },
+  {
+    "text": "Explain briefly insurance",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for insurance",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Is this GDPR compliant: insurance",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain privacy laws",
+    "label": "QA"
+  },
+  {
+    "text": "Explain briefly privacy laws",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Generate quiz on privacy laws",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: privacy laws",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Define privacy laws",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize privacy laws",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about privacy laws",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for privacy laws",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "What is nutrition?",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of nutrition",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Generate quiz on nutrition",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: nutrition",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about heart disease",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize heart disease",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on heart disease",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: heart disease",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain HIPAA",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize HIPAA",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about HIPAA",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: HIPAA",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Define patient data",
+    "label": "QA"
+  },
+  {
+    "text": "Shorten this patient data",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about patient data",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for patient data",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "What is HIPAA?",
+    "label": "QA"
+  },
+  {
+    "text": "Explain briefly HIPAA",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Generate quiz on HIPAA",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: HIPAA",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Define insurance",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of insurance",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for insurance",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for insurance",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain diabetes",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize diabetes",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about diabetes",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Is this GDPR compliant: diabetes",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain medical records",
+    "label": "QA"
+  },
+  {
+    "text": "Explain briefly medical records",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for medical records",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Is this GDPR compliant: medical records",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about patient data",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of patient data",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about patient data",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: patient data",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about nutrition",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of nutrition",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for nutrition",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for nutrition",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "What is GDPR?",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize GDPR",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about GDPR",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for GDPR",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain healthcare systems",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of healthcare systems",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for healthcare systems",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: healthcare systems",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about healthcare systems",
+    "label": "QA"
+  },
+  {
+    "text": "Shorten this healthcare systems",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for healthcare systems",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: healthcare systems",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about GDPR",
+    "label": "QA"
+  },
+  {
+    "text": "Explain briefly GDPR",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on GDPR",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Is this GDPR compliant: GDPR",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain diabetes",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize diabetes",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for diabetes",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: diabetes",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain healthcare systems",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize healthcare systems",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about healthcare systems",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for healthcare systems",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "What is healthcare systems?",
+    "label": "QA"
+  },
+  {
+    "text": "Shorten this healthcare systems",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Generate quiz on healthcare systems",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Is this GDPR compliant: healthcare systems",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about privacy laws",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of privacy laws",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on privacy laws",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: privacy laws",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Define GDPR",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize GDPR",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about GDPR",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for GDPR",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about diabetes",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of diabetes",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about diabetes",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Is this GDPR compliant: diabetes",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Define healthcare systems",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize healthcare systems",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Generate quiz on healthcare systems",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: healthcare systems",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain heart disease",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize heart disease",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on heart disease",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: heart disease",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "What is insurance?",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize insurance",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on insurance",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: insurance",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain insurance",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of insurance",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for insurance",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Is this GDPR compliant: insurance",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about diabetes",
+    "label": "QA"
+  },
+  {
+    "text": "Explain briefly diabetes",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for diabetes",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: diabetes",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about nutrition",
+    "label": "QA"
+  },
+  {
+    "text": "Summarize nutrition",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about nutrition",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Is this GDPR compliant: nutrition",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain diabetes",
+    "label": "QA"
+  },
+  {
+    "text": "Explain briefly diabetes",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for diabetes",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: diabetes",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "What is nutrition?",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of nutrition",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Make test questions for nutrition",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Is this GDPR compliant: nutrition",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Explain GDPR",
+    "label": "QA"
+  },
+  {
+    "text": "Shorten this GDPR",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Give 3 quiz questions on GDPR",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: GDPR",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Define heart disease",
+    "label": "QA"
+  },
+  {
+    "text": "Explain briefly heart disease",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Generate quiz on heart disease",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for heart disease",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Define patient data",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of patient data",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about patient data",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Check HIPAA compliance: patient data",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "What is HIPAA?",
+    "label": "QA"
+  },
+  {
+    "text": "Give a summary of HIPAA",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about HIPAA",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Does this violate GDPR: HIPAA",
+    "label": "COMPLIANCE"
+  },
+  {
+    "text": "Give details about diabetes",
+    "label": "QA"
+  },
+  {
+    "text": "Shorten this diabetes",
+    "label": "SUMMARIZE"
+  },
+  {
+    "text": "Create questions about diabetes",
+    "label": "QUIZ"
+  },
+  {
+    "text": "Evaluate compliance for diabetes",
+    "label": "COMPLIANCE"
+  }
+]
