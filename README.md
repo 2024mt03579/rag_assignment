@@ -80,13 +80,13 @@ documents/
 ### Step 1: Generate Dataset
 
 ```bash
-python generate_dataset.py
+python3 generate_dataset.py
 ```
 
 ### Step 2: Train Model
 
 ```bash
-python intent_model/trainModel.py
+python3 trainModel.py
 ```
 
 After training, model files will be saved in:
