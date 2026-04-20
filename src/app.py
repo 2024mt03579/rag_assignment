@@ -36,7 +36,7 @@ for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
 
-        # ✅ Show sources attached to this message
+        # Show sources attached to this message
         if msg["role"] == "assistant" and msg.get("sources"):
             st.markdown("### 📄 Sources")
             for s in set(msg["sources"]):
