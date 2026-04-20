@@ -39,12 +39,12 @@ def answer_with_rag(db, query):
     )
 
     usage = response.usage
-    # ✅ Log token usage
+    # Log token usage
     logging.info(f"Prompt tokens: {usage.prompt_tokens}")
     logging.info(f"Completion tokens: {usage.completion_tokens}")
     logging.info(f"Total tokens: {usage.total_tokens}")
 
-    # ✅ Log sources
+    # Log sources
     logging.info(f"Sources used: {list(set(sources))}")
 
     answer = response.choices[0].message.content

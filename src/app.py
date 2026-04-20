@@ -5,6 +5,7 @@ from utils import detect_intent, call_llm
 
 # Optional: If you want to use the intent model instead of LLM-based detection
 #from intent_model import predict_intent
+#from utils import call_llm
 
 import logging
 
@@ -13,33 +14,24 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
-
 st.set_page_config(page_title="AI Healthcare Assistant")
 
-# ----------------------------
 # Header
-# ----------------------------
 st.title("🩺 AI Healthcare Assistant")
 st.warning("⚠️ For educational use only. Not medical/legal advice.")
 
-# ----------------------------
 # Load Vector DB
-# ----------------------------
 @st.cache_resource
 def load_db():
     return create_vector_store()
 
 db = load_db()
 
-# ----------------------------
 # Chat Memory
-# ----------------------------
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# ----------------------------
 # Display Chat History
-# ----------------------------
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
@@ -50,9 +42,7 @@ for msg in st.session_state.messages:
             for s in set(msg["sources"]):
                 st.caption(f"📄 {s}")
 
-# ----------------------------
 # User Input
-# ----------------------------
 if prompt := st.chat_input("Ask anything (healthcare, quiz, compliance, summary)..."):
 
     # Show user message
@@ -65,9 +55,7 @@ if prompt := st.chat_input("Ask anything (healthcare, quiz, compliance, summary)
         "content": prompt
     })
 
-    # ----------------------------
     # Detect intent
-    # ----------------------------
     intent = detect_intent(prompt)
 
     # Optional: If using a custom intent model instead of LLM-based detection
@@ -75,14 +63,10 @@ if prompt := st.chat_input("Ask anything (healthcare, quiz, compliance, summary)
 
     logging.info(f"Detected intent: {intent}")
 
-    # ----------------------------
     # Default → RAG
-    # ----------------------------
     response, sources = answer_with_rag(db, prompt)
 
-    # ----------------------------
     # Override for special tasks
-    # ----------------------------
     if intent == "SUMMARIZE":
         response = call_llm(f"Summarize:\n{prompt}")
 
@@ -104,13 +88,13 @@ if prompt := st.chat_input("Ask anything (healthcare, quiz, compliance, summary)
     with st.chat_message("assistant"):
         st.markdown(response)
 
-    # ✅ Show sources immediately
+    # Show sources immediately
     if sources:
         st.markdown("### 📄 Sources")
         for s in set(sources):
             st.caption(f"📄 {s}")
 
-    # ✅ Save message WITH sources
+    # Save message WITH sources
     st.session_state.messages.append({
     "role": "assistant",
     "content": response,

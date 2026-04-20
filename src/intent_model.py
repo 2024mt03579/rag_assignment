@@ -1,5 +1,6 @@
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
+import logging
 
 # Load model
 model_path = "./intent_model"
@@ -17,5 +18,10 @@ def predict_intent(text):
     logits = outputs.logits
 
     predicted_class_id = torch.argmax(logits, dim=1).item()
+    predicted_label = labels[predicted_class_id]
+
+    # LOG THIS
+    logging.info(f"[Intent Model] Input: {text}")
+    logging.info(f"[Intent Model] Predicted Intent: {predicted_label}")
 
     return labels[predicted_class_id]
